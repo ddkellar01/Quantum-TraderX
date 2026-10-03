@@ -49,10 +49,14 @@
 ### What is this about?
 Quantum-TraderX v2.0 is an autonomous, multi-asset wealth generation hub powered by a 12-Agent AI Task Force. It upgrades the traditional algorithmic trading bot by giving it a "brain trust." Instead of relying on a single script, a team of specialized AI agents (Yield Scouts, Risk Analysts, MEV Arbitrageurs) work under a Commander node to hunt for profit across Crypto, Stocks, Forex, and Sports Prediction markets simultaneously.
 
+https://labs.google/fx/tools/flow/shared/video/fc655100-35b2-41cc-8293-ae6602839659
+
 ---
 
 ### What this does?
 It entirely replaces the human trader. It constantly scans global markets, visualizes the data in a 3D dashboard, achieves consensus on profitable trades using Gemini Pro logic, and executes those trades in milliseconds while a Safety Sentinel audits every move to protect the bankroll.
+
+https://labs.google/fx/tools/flow/shared/video/60ef64bd-1dba-4d97-b5c9-8377e4ce37f9
 
 ---
 
