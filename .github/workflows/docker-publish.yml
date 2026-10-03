@@ -1,4 +1,6 @@
-name: Publish Rele
+name: Publish Release
+
+on:
   release:
     types: [published]
 
