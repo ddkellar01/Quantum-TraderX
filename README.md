@@ -64,6 +64,8 @@ It entirely replaces the human trader. It constantly scans global markets, visua
 5. Execute: The MEV Arbitrage bot fires the API order in milliseconds.
 6. Report: The DevOps Sentinel logs the trade to the Holdings Matrix and updates the 3D visualizer on your dashboard.
 
+https://labs.google/fx/tools/flow/shared/video/8af33030-2503-4804-a8d8-164aaa667aea
+
 ---
 
 ### Why is this cool? (50 Reasons)
