@@ -222,3 +222,4 @@ The Catch: Sometimes a robot trips and drops a few coins. Sometimes the weather 
     ├── 🔍 smart_contract_auditor.py # Scans Web3 code for rug pulls
     ├── 🛑 guardrail_agent.py # Hard-coded max drawdown limits
     └── 🩺 devops_sentinel.py # Monitors server latency & API health
+
