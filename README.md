@@ -208,19 +208,17 @@ The Catch: Sometimes a robot trips and drops a few coins. Sometimes the weather 
 ---------------------------------------------------------------
 
 🌌 Quantum-TraderX-v2/
- ├── 🧠 core/ # The Central Nervous System
- │   ├── 🤖 commander.py # Gemini Pro Thinking reasoning engine
- │   ├── ⚡ engine.py # High-frequency event loop
- │   └── ⚖️ portfolio_balancer.py # Cross-asset capital 
-            allocation
- ├── 🕵️ agents/ # The 12-Agent Task Force
- │   ├── 💰 yield_scout.py # Hunts highest APY in DeFi/Crypto
- │   ├── 📉 risk_analyst.py # Calculates Kelly Criterion limits
- │   ├── 📐 quant_modeler.py # Real-time mathematical edge                  detection
- │   └── 🥪 mev_arbitrage.py # Sandwich & flash-loan execution
- ├── 🛡️ safety_sentinel/ # Guardrails & Auditing
- │   ├── 🤝 arbiter_consensus.py # Requires 3 agents to agree               before trading
- │   ├── 🔍 smart_contract_auditor.py # Scans Web3 code for                 rug pulls
- │   ├── 🛑 guardrail_agent.py # Hard-coded max drawdown                    limits
- │   └── 🩺 devops_sentinel.py # Monitors server latency & API              health
-
+├── 🧠 core/ # The Central Nervous System
+│   ├── 🤖 commander.py # Gemini Pro Thinking reasoning engine
+│   ├── ⚡ engine.py # High-frequency event loop
+│   └── ⚖️ portfolio_balancer.py # Cross-asset capital allocation
+├── 🕵️ agents/ # The 12-Agent Task Force
+│   ├── 💰 yield_scout.py # Hunts highest APY in DeFi/Crypto
+│   ├── 📉 risk_analyst.py # Calculates Kelly Criterion limits
+│   ├── 📐 quant_modeler.py # Real-time mathematical edge detection
+│   └── 🥪 mev_arbitrage.py # Sandwich & flash-loan execution
+└── 🛡️ safety_sentinel/ # Guardrails & Auditing
+    ├── 🤝 arbiter_consensus.py # Requires 3 agents to agree before trading
+    ├── 🔍 smart_contract_auditor.py # Scans Web3 code for rug pulls
+    ├── 🛑 guardrail_agent.py # Hard-coded max drawdown limits
+    └── 🩺 devops_sentinel.py # Monitors server latency & API health
